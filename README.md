@@ -113,16 +113,16 @@ The theme toggle functionality allows users to switch between **Light** and **Da
 ## 🖥️ Screenshots
 
 ### 1. Login Page
-![Login Page](https://via.placeholder.com/600x400.png?text=Login+Page)
+![Login Page](https://github.com/AishwaryaChandel27/Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-/blob/main/project_screenshots/Screenshot%202024-12-17%20194604.png)
 
 ### 2. Register Page
-![Register Page](https://via.placeholder.com/600x400.png?text=Register+Page)
+![Register Page](https://github.com/AishwaryaChandel27/Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-/blob/main/project_screenshots/Screenshot%202024-12-17%20194830.png)
 
 ### 3. Dashboard with Dark Mode
-![Dashboard Dark Mode](https://via.placeholder.com/600x400.png?text=Dashboard+Dark+Mode)
+![Dashboard Dark Mode](https://github.com/AishwaryaChandel27/Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-/blob/main/project_screenshots/Screenshot%202024-12-17%20194754.png)
 
-### 4. Dashboard with Light Mode
-![Dashboard Light Mode](https://via.placeholder.com/600x400.png?text=Dashboard+Light+Mode)
+### 4. Dashboard with DARK Mode
+![Dashboard Light Mode](https://github.com/AishwaryaChandel27/Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-/blob/main/project_screenshots/Screenshot%202024-12-17%20194909.png)
 
 ---
 
